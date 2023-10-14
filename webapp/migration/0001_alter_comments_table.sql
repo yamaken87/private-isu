@@ -1,0 +1,1 @@
+alter table comments ADD INDEX post_id_idx(post_id);
